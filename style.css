@@ -285,4 +285,6 @@ header .job-title {
     }
 }
 
-    
+    .hidden {
+    display: none !important;
+}
